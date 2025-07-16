@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spidr-landingpage/static/css/main.a8559ccc.css",
+    "main.js": "/spidr-landingpage/static/js/main.4ea2be1a.js",
+    "static/media/Animation.gif": "/spidr-landingpage/static/media/Animation.3240f54b376539ab7f0b.gif",
+    "static/media/Air-Fryer.png": "/spidr-landingpage/static/media/Air-Fryer.3fda4036f30c250773a9.png",
+    "static/media/Air-Fryer-2.png": "/spidr-landingpage/static/media/Air-Fryer-2.642ca1c315e5a85cad27.png",
+    "index.html": "/spidr-landingpage/index.html",
+    "main.a8559ccc.css.map": "/spidr-landingpage/static/css/main.a8559ccc.css.map",
+    "main.4ea2be1a.js.map": "/spidr-landingpage/static/js/main.4ea2be1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8559ccc.css",
+    "static/js/main.4ea2be1a.js"
+  ]
+}
